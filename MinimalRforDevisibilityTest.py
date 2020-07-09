@@ -27,8 +27,7 @@ for elem in range(0,9):
     theOnesWithNineOrOne.append(temp2)
 
 
-
-theNumberWeNeed = min(theOnesWithNineOrOne)
-
+theMinimalNumber = min(theOnesWithNineOrOne)
+theNumberWeNeed = len(theMinimalNumber)
 print(theNumberWeNeed)
 
