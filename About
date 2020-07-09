@@ -1,0 +1,19 @@
+For any prime p (except for 2 and 5) there exists an integer r such that a similar divisibility test exists:
+
+to check if a number is divisible by p, you need to split its decimal notation into r-tuples of digits
+
+(starting from the right-end), add up these r-tuples and check whether their sum is divisible by p.
+
+Given a prime int p, find the minimal r for which such divisibility test is valid and output it. 
+
+The input consists of a single integer p - a prime between 3 and 999983, inclusive, not equal to 5. 
+
+Example: 
+Input: 3
+Output: 1
+
+Input: 11
+Output: 2
+
+
+PS: As of 9th of July 2020 this program is not yet finished. 
