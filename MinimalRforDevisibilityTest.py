@@ -10,8 +10,8 @@ if prime >=3 & prime <= 999983 & prime != 5:
     temp = element * prime
     primeMultiplied.append(temp)
   
-  for N in primeMultiplied: 
-    print(N)
+#for testing purposes  for N in primeMultiplied: 
+#for testing purposes    print(N)
 
 
 print()
