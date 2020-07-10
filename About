@@ -16,4 +16,6 @@ Input: 11
 Output: 2
 
 
-PS: As of 9th of July 2020 this program is not yet finished. 
+PS: As of 9th of July 2020 this program is not yet finished. The output should be correct however, I am
+currently working on a more advanced prototype that will give us more insight on prime numbers and their
+unique traits.
